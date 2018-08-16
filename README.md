@@ -2,4 +2,6 @@
 
 This is the workshop about bases of bytecode.
 
-Branches contains the solutions of all exercises.
+1. Please follow the instructions in Bytecode.pptx.
+
+2. Branches contains the solutions of all exercises.
